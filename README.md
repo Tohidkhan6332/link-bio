@@ -21,6 +21,6 @@ VERCEL PROCESS:
     4: Enter project name, env variables.
     5: And JUST CLICK "Deploy". 
 ```
-***Here's an Example [`OUTPUT`](https://gifted-link-bio.vercel.app).***
+***Here's an Example [`OUTPUT`](https://tohid-link-bio.vercel.app/).***
 
 ---
